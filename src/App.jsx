@@ -1,7 +1,6 @@
 import React from 'react'
 import Header from './components/Header'
 import Section from './components/Section'
-import Player from './components/Player'
 
 
 
@@ -15,8 +14,7 @@ const App = () => {
       <h2 className="text-white text-lg">Equip propi</h2>
     </div>
     <main>
-      <Section />
-     
+      <Section />     
     </main>
     </>
   )
