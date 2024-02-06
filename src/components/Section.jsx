@@ -23,6 +23,7 @@ const Section = () => {
           <p className="mt-3">Assoleixo diferents estils: standards de jazz, jazz-blues, smooth jazz, jazz fusion, chicago blues, chill out...</p>
           <p className="mt-3">Sempre a un volum agradable, d'una manera suau i dinàmica, creativa i lúdica amb l'objectiu d'acompanyar els/les assistents amb música en directe
           agradable feta amb gust i delicadesa.</p>
+          <p className="text-center mt-6 font-bold text-xl">Disponiblitat temporada d'estiu 2024-2025</p>
           <img src={ImageJazz} alt="picture jazz" />
           <p className="mt-3"> Gràcies a totes aquelles persones amants de la música</p>
           <p className="mt-3"> Gràcies a totes aquelles persones que gaudeixen i comparteixen la música</p>
