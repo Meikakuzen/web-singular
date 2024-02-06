@@ -2,6 +2,7 @@ import React from 'react'
 import Image from '../assets/guit.jpg'
 import Player from './Player'
 import ImageJazz from '../assets/classical-vs-jazz-music.jpg'
+import Player2 from './Player2'
 
 const Section = () => {
   return (
@@ -31,7 +32,7 @@ const Section = () => {
         <div className="flex justify-center mt-6">
       </div>
       <div className="sm:flex justify-center">
-        <Player />
+        <Player2 />
       </div>
       </div>
     </section>
