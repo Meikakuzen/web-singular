@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body, header{
+    background-color: black;
+}
+
+header{
+    font-family: 'Protest Riot', sans-serif;
+}
+
+h2{
+    font-family: 'Arsenal', sans-serif;
+}
+
+section{
+    font-family: 'Arsenal', sans-serif;
+}
+
