@@ -4,6 +4,7 @@ import Section from './components/Section'
 import Player from './components/Player'
 
 
+
 const App = () => {
   return (
     <>
@@ -15,11 +16,7 @@ const App = () => {
     </div>
     <main>
       <Section />
-
-      <div className="flex justify-center mt-6">
-        <Player />
-      </div>
-
+     
     </main>
     </>
   )

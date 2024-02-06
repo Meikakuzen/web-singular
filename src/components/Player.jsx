@@ -8,6 +8,7 @@ const Player = () => {
     <div>
         <ReactAudioPlayer
         src="./src/assets/MusicaWebMix2.wav"
+        autoPlay
         controls
         />
     </div>
