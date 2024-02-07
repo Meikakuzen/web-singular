@@ -8,7 +8,7 @@ const Section = () => {
   return (
     <section className="text-white text-xl mt-8">
       <h3 className="text-xl2 font-bold mb-8 text-center md:text-2xl xl:text-4xl">Música en directe a hotels, petits locals i bars</h3>
-      <div className="flex flex-col justify-center md:justify-center lg:flex-row">
+      <div className="flex flex-col justify-center md:justify-center lg:flex-row mb-4">
         <img className="max-w-2xl" src={Image} alt="guitarra"/>
         <div className="flex flex-col align-center ml-3 xl:gap-10">
           <p className="mt-3"> El nom d'aquesta web es singular. </p> 
@@ -29,7 +29,7 @@ const Section = () => {
           <p className="mt-3"> Gràcies a totes aquelles persones que habiliten els espais perquè la música en viu sigui possible</p>
           <p className="mt-3 text-center md:flex-start md:mt-10 lg:mt-40"> Gràcies <span className="ml-10 mr-10">Gràcies</span>  Gràcies</p>
         </div>
-      <div className="sm:flex justify-center sm:mt-10 lg:mt-0">
+      <div className="sm:flex justify-center sm:mt-8 sm:mb-8 lg:mt-0">
         <Player2 />
       </div>
       </div>
